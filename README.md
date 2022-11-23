@@ -1,5 +1,5 @@
 # Проект YaMDb 
-####![yamdb workflow](https://github.com/kserm/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb workflow](https://github.com/kserm/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ### yamdb_final
 
 ## **Описание.**
