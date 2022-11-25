@@ -61,4 +61,4 @@ docker-compose exec web python manage.py collectstatic --no-input
 http://127.0.0.1:8000/redoc/
 
 При работе с удаленным сервером:
-http://84.201.140.136:8000/redoc/
+http://84.201.140.136:80/redoc/
